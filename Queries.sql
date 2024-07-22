@@ -1,3 +1,4 @@
+-- database: ecommerce.db
 -- Selecionar todos os dados da tabela vendas
 SELECT * FROM vendas;
 
