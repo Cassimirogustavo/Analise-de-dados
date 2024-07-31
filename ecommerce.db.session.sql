@@ -1,0 +1,1 @@
+SELECT produto FROM vendas;
